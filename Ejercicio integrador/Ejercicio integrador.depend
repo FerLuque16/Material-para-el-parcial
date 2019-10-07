@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1569342785 source:c:\users\brian\desktop\proyectos en c\clase 10\ejercicio integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayPersona.h"
+	<string.h>
+	<ctype.h>
+
+1569342793 c:\users\brian\desktop\proyectos en c\clase 10\ejercicio integrador\arraypersona.h
+
+1569342288 source:c:\users\brian\desktop\proyectos en c\clase 10\ejercicio integrador\arraypersona.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayPersona.h"
+	<string.h>
+	<ctype.h>
+
+1569372266 source:c:\users\alumno\desktop\proyectos en c\clase 10\ejercicio integrador\arraypersona.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayPersona.h"
+	<string.h>
+	<ctype.h>
+
+1569368494 c:\users\alumno\desktop\proyectos en c\clase 10\ejercicio integrador\arraypersona.h
+
+1569372586 source:c:\users\alumno\desktop\proyectos en c\clase 10\ejercicio integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayPersona.h"
+	<string.h>
+	<ctype.h>
+
+1570313699 source:c:\users\fer\desktop\programacion i\clase 10\ejercicio integrador\arraypersona.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayPersona.h"
+	<string.h>
+	<ctype.h>
+
+1569368494 c:\users\fer\desktop\programacion i\clase 10\ejercicio integrador\arraypersona.h
+
+1570218284 source:c:\users\fer\desktop\programacion i\clase 10\ejercicio integrador\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"input.h"
+
+1570218284 c:\users\fer\desktop\programacion i\clase 10\ejercicio integrador\input.h
+
+1570332850 source:c:\users\fer\desktop\programacion i\clase 10\ejercicio integrador\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"ArrayEmployees.h"
+
+1570332879 c:\users\fer\desktop\programacion i\clase 10\ejercicio integrador\arrayemployees.h
+
+1570332972 source:c:\users\fer\desktop\programacion i\clase 10\ejercicio integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	<string.h>
+	<ctype.h>
+	"input.h"
+
